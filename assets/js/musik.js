@@ -2,36 +2,36 @@ const songs = [
   {
     title: "break from toronto",
     artist: "partynextdoor",
-    src: "../assets/audio/lagu1.mp3",
-    cover: "../assets/images/cover1.jpg",
+    src: "../../assets/audio/lagu1.mp3",
+    cover: "../../assets/images/cover1.jpg",
     duration: "01:39"
   },
   {
     title: "when i was your man",
     artist: "bruno mars",
-    src: "../assets/audio/lagu2.mp3",
-    cover: "../assets/images/cover2.jpg",
+    src: "../../assets/audio/lagu2.mp3",
+    cover: "../../assets/images/cover2.jpg",
     duration: "03.33"
   },
   {
     title: "pergi hilang dan lupakan",
     artist: "remember of today",
-    src: "../assets/audio/lagu3.mp3",
-    cover: "../assets/images/cover3.jpg",
+    src: "../../assets/audio/lagu3.mp3",
+    cover: "../../assets/images/cover3.jpg",
     duration: "04:50"
   },
   {
     title: "die for you",
     artist: "the weeknd",
-    src: "../assets/audio/lagu4.mp3",
-    cover: "../assets/images/cover4.jpg",
+    src: "../../assets/audio/lagu4.mp3",
+    cover: "../../assets/images/cover4.jpg",
     duration: "04:20"
   },
   {
     title: "is there someone else",
     artist: "the weeknd",
-    src: "../assets/audio/lagu5.mp3",
-    cover: "../assets/images/cover5.jpg",
+    src: "../../assets/audio/lagu5.mp3",
+    cover: "../../assets/images/cover5.jpg",
     duration: "03:19"
   }
 ];
