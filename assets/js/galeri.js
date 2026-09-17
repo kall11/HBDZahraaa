@@ -2,7 +2,7 @@ const photos = [
   {
     id: "#1",
     type: "img",
-    src: "../../assets/images/consol/gallery/photo1.jpg",
+    src: "../assets/images/consol/gallery/photo1.jpg",
     alt: "Foto kenangan 1",
     width: 160,
     height: 270
@@ -10,7 +10,7 @@ const photos = [
   {
     id: "#2",
     type: "img",
-    src: "../../assets/images/consol/gallery/photo2.jpg",
+    src: "../assets/images/consol/gallery/photo2.jpg",
     alt: "Foto kenangan 2", 
     width: 160,
     height: 270
@@ -18,7 +18,7 @@ const photos = [
   {
     id: "#3",
     type: "img",
-    src: "../../assets/images/consol/gallery/photo3.jpg",
+    src: "../assets/images/consol/gallery/photo3.jpg",
     alt: "Foto kenangan 3",
     width: 160,
     height: 270
@@ -26,7 +26,7 @@ const photos = [
   {
     id: "#4", 
     type: "img",
-    src: "../../assets/images/consol/gallery/photo4.jpg",
+    src: "../assets/images/consol/gallery/photo4.jpg",
     alt: "Foto kenangan 4",
     width: 160,
     height: 270
@@ -34,7 +34,7 @@ const photos = [
   {
     id: "#Video",
     type: "video",
-    src: "../../assets/images/consol/gallery/video-dump.mp4",
+    src: "../assets/images/consol/gallery/video-dump.mp4",
     alt: "Video kenangan",
     width: 160,
     height: 270
