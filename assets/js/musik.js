@@ -2,8 +2,8 @@ const songs = [
   {
     title: "break from toronto",
     artist: "partynextdoor",
-    src: "../../assets/audio/lagu1.mp3",
-    cover: "../../assets/images/cover1.jpg",
+    src: "../assets/audio/lagu1.mp3",
+    cover: "../assets/images/cover1.jpg",
     duration: "01:39"
   },
   {
